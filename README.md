@@ -1,16 +1,31 @@
-### Hi there 👋
+        public class Human {
+                String name;
+                Integer age;  
+                String country;
+                String state;
+                String city;
+                String description;
+  
+                public Human() {
+  
+                }
+  
+                public Human(String name , Integer age , String country , String state , String city) {
+                        this.name = name;
+                        this.age = age;
+                        this.country = country;
+                        this.state = state;
+                        this.city = city;
+                        description = "Make your own story";
+                }
+        }
 
-<!--
-**leduardovb/leduardovb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        public static void main(String[] args) {
+                String name = "Luiz Eduardo Vieira Barreto";
+                Integer age = 18;
+                String country = "Brazil";
+                String state = "Paraná";
+                String city = "Boa Esperança"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                Human human = new Human(name , age , country , state , city);
+        }
