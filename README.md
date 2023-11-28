@@ -1,7 +1,7 @@
 ## I'm Luiz Eduardo Vieira Barreto
 
 #### :pouting_man: About me
-- :technologist: Working as a Back-end developer at Viptech
+- :technologist: Working as a Front-end developer at Viptech
 - :man_scientist: Exploring everything about data
 
 #### :hammer_and_wrench: Tech Stack
