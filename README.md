@@ -27,8 +27,6 @@ I'm a passionate **Frontend Developer** with strong expertise in **React**, **Ne
 - Expanding my knowledge in **cloud infrastructure** and **microservices architecture**.
 - Deepening my experience with **Kubernetes** and **Terraform**.
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=leduardovb&theme=react-dark)
-
 ---
 
 ### 🔧 Tools & Technologies:
